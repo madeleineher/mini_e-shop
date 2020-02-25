@@ -9,6 +9,6 @@ A rush project that consists of an e-shop made in two days in a team of two for 
     - Delete the `htdocs` folder in the `apps/phpadmin` directory and clone this repository in this directory under the folder name `httpsdocs` 
  - Modify line 8 in install.php file with the your root folder
  ```
-    $ $str = "localhost,root,mamproot,database";
+    $ str = "localhost,root,mamproot,database";
  ```
   - Launch with index.php
